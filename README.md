@@ -1,1 +1,1 @@
-# gb_js
+# JS course practice tasks
