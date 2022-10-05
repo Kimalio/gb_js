@@ -1,1 +1,2 @@
-# gb_js
+# JavaScript Course
+# практические задания
